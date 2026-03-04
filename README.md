@@ -107,7 +107,7 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who loves buildi
 
 ## 🌟 Featured Projects
 
-### 🍽️ DineFlow - Restaurant Management System
+### 🍽️ Restaurant Management System
 **Graphura India Pvt Ltd | Full Stack Development**
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukeshk78254/RestaurantGraphura)
@@ -186,16 +186,14 @@ A decentralized note-taking application built on Solana blockchain, allowing use
 
 ---
 
-### 🏆 Smart India Hackathon (SIH) Projects
+### AI  Projects
 **Competition Projects | Innovation & Problem Solving**
 
-Multiple innovative solutions developed for Smart India Hackathon, focusing on real-world problem statements with scalable technology solutions.
+Multiple innovative solutions developed , focusing on real-world problem statements with scalable technology solutions.
 
 **Tech Stack:** Next.js 15 • React 19 • Node.js • Express • MongoDB • Mongoose • JWT • AI/ML Integration • WebRTC • Socket.io
 
-**SIH 2025 - TheMeteroid Team Demo**
 
-**Problem Statement**: [Specific problem addressed by the solution]
 
 **Solution Approach:**
 - **Frontend**: Built with Next.js 15 and React 19 for optimal performance and SEO
@@ -275,31 +273,6 @@ A full-featured video calling and chat application with peer-to-peer communicati
 
 ---
 
-### 📊 JIRA Clone - Project Management Tool
-**Learning Project | Full Stack Development**
-
-A feature-rich project management application inspired by JIRA with comprehensive task tracking and team collaboration capabilities.
-
-**Tech Stack:** React • Redux Toolkit • Node.js • Express • MongoDB • Socket.io • Redis • React Hook Form • React Router
-
-**Key Features:**
-- **Task Management**: Create, assign, and track tasks with status workflows
-- **Sprint Planning**: Organize work into sprints with burndown charts
-- **Team Collaboration**: Comments, mentions, and activity feeds
-- **Real-time Updates**: Live notifications using Socket.io
-- **Advanced Search**: Filter and search tasks with multiple criteria
-- **User Management**: Role-based permissions and team organization
-- **Analytics Dashboard**: Project metrics and team performance tracking
-
-**Technical Implementation:**
-- Redux Toolkit for predictable state management
-- Redis for caching and session management
-- Socket.io for real-time collaborative features
-- React Hook Form for optimized form handling
-- RESTful API with proper error handling and validation
-
----
-
 ### 🌐 Additional Projects
 
 **Portfolio Website** - Personal portfolio with modern design and animations  
@@ -330,20 +303,10 @@ A feature-rich project management application inspired by JIRA with comprehensiv
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=mukeshk78254&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 💼 Professional Experience & Journey
 
 ### 🔹 Full Stack Developer Intern
-**Graphura India Pvt Ltd** | *January 2026 - Present*
+**Graphura India Pvt Ltd** | * Dec-2025  - Jan-2026 *
 
 Working on enterprise-level restaurant management system (DineFlow) with focus on:
 - Architecting and developing full-stack application using MERN stack
@@ -358,27 +321,11 @@ Working on enterprise-level restaurant management system (DineFlow) with focus o
 
 ---
 
-### 🔹 Blockchain Developer
-**Freelance & Personal Projects** | *2024 - Present*
-
-Developing decentralized applications and smart contracts:
-- Built **Voting System** on Ethereum using Solidity with Hardhat development framework
-- Created **NoteApp DApp** on Solana blockchain using Anchor and Rust
-- Implemented smart contracts following security best practices and OpenZeppelin standards
-- Integrated Web3 wallets (MetaMask, Phantom) for seamless user experience
-- Deployed contracts on testnets and mainnets with proper testing
-- Explored DeFi concepts, token standards (ERC-20, ERC-721), and Layer 2 solutions
-
-**Technologies Used:** Solidity, Rust, Hardhat, Anchor, Ethers.js, Web3.js, Solana Web3.js, OpenZeppelin, TypeScript
-
----
-
 ### 🔹 MERN Stack Developer
 **Multiple Projects** | *2023 - Present*
 
 Built numerous full-stack applications from concept to deployment:
 - **CoderWorld**: Collaborative coding platform with Clerk authentication and real-time features
-- **JIRA Clone**: Project management tool with Redux state management and Socket.io
 - **Communication Apps**: WebRTC-based video calling and real-time chat applications
 - Implemented RESTful APIs with Express.js and MongoDB/Mongoose
 - Integrated third-party services (Twilio, Razorpay, Nodemailer, Clerk)
@@ -389,7 +336,7 @@ Built numerous full-stack applications from concept to deployment:
 
 ---
 
-### 🔹 Smart India Hackathon Participant
+### 🔹 Smart India Hackathon 
 **SIH 2025 - TheMeteroid Team** | *2025*
 
 Developed innovative solutions for real-world problem statements:
@@ -450,14 +397,14 @@ Developed innovative solutions for real-world problem statements:
 
 **Daily Routine:**
 - 💡 **DSA Practice**: Solving 2-3 Data Structures & Algorithms problems daily on LeetCode/GeeksforGeeks
-- 📝 **Consistent Coding**: Maintaining GitHub streak with meaningful contributions
+- 📝 **Consistent Coding**: Maintaining Project streak with meaningful contributions
 - 📚 **Learning**: Dedicating time to explore new technologies and deepen existing knowledge
 
 **Project Goals:**
 - 🚀 Complete and deploy **10+ production-ready applications** across different domains
-- 🏢 Successfully deliver **DineFlow Restaurant Management System** for Graphura India Pvt Ltd
+- 🏢 Successfully deliver ** Restaurant Management System** for Graphura India Pvt Ltd
 - 💻 Build and launch **CoderWorld** platform for developer collaboration
-- ⛓️ Create **3-4 advanced blockchain projects** on Ethereum and Solana
+- ⛓️ Create **2 advanced blockchain projects** on Ethereum and Solana
 - 📱 Develop **mobile-responsive applications** with modern frameworks
 
 **Open Source Contributions:**

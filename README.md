@@ -19,24 +19,33 @@
 
 ## 🎯 About Me
 
-```javascript
-const mukesh = {
-    location: "India 🇮🇳",
-    education: "Computer Science & Engineering",
-    currentFocus: ["Full Stack Development", "Blockchain Technology", "Web3"],
-    learning: ["Advanced Solidity", "System Design", "Cloud Architecture"],
-    interests: ["DApps", "Smart Contracts", "AI/ML Integration"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+I'm a passionate Full Stack Developer and Blockchain enthusiast who loves building scalable applications that solve real-world problems. My journey in software development has led me through various domains - from creating sophisticated restaurant management systems to developing decentralized applications on multiple blockchains.
 
-- 🔭 Currently working on **Enterprise-level Restaurant Management System** for Graphura India Pvt Ltd
-- 🌱 Building **decentralized applications** on Ethereum and Solana
-- 💼 Experienced in **MERN Stack** and **Blockchain Development**
-- 🎓 Active participant in **Smart India Hackathon (SIH)**
-- 💬 Ask me about **React, Node.js, Solidity, Web3, Smart Contracts**
-- 📫 Reach me: **mukeshk78254@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code!** ☕➡️💻
+**What I Do:**
+- Build full-stack web applications using MERN stack with modern tools like React 19, Next.js, and TypeScript
+- Develop smart contracts and DApps on Ethereum and Solana blockchains
+- Design and implement RESTful APIs with robust authentication and real-time features
+- Create responsive, user-friendly interfaces with attention to performance and accessibility
+- Integrate payment gateways, real-time communication, and third-party services
+
+**My Development Environment:**
+- Primary IDE: VS Code with extensive customization
+- Version Control: Git & GitHub for all projects
+- Testing: Postman for API testing, browser DevTools for frontend
+- Design: Focus on clean code architecture and scalable solutions
+
+**Currently:**
+- 🏢 Working on enterprise-level Restaurant Management System (DineFlow) for Graphura India Pvt Ltd
+- 🎯 Solving daily DSA problems to strengthen problem-solving skills
+- 🌱 Contributing to open-source projects and learning advanced system design
+- 🚀 Building CoderWorld - a collaborative coding platform
+- ⛓️ Exploring advanced blockchain concepts and Layer 2 solutions
+
+**Background:**
+- 🎓 Computer Science & Engineering student
+- 🏆 Smart India Hackathon participant with multiple innovative projects
+- 💼 Experience in freelance development and internship at Graphura India Pvt Ltd
+- 📚 Continuous learner - always exploring new technologies and best practices
 
 ---
 
@@ -98,89 +107,206 @@ const mukesh = {
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🍽️ DineFlow - Restaurant Management System
+**Graphura India Pvt Ltd | Full Stack Development**
 
-### 🍽️ Restaurant Management System - DineFlow
-**Graphura India Pvt Ltd Internship Project**
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukeshk78254/RestaurantGraphura)
 
-[![GitHub](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukeshk78254/RestaurantGraphura)
+A comprehensive, production-ready restaurant management platform that streamlines operations from order placement to kitchen management with real-time updates and analytics.
 
-A comprehensive full-stack restaurant management system with admin dashboard, menu management, order tracking, payment integration, and real-time kitchen operations.
+**Tech Stack:** React 19 • Node.js • Express.js • MongoDB • Mongoose • JWT • Razorpay • Nodemailer • Recharts • Framer Motion • Lucide React
 
-**Tech Stack:** React 19 • Node.js • Express • MongoDB • Razorpay • JWT • Framer Motion • Recharts
+**Key Features & Implementation:**
+- **Authentication System**: Secure JWT-based authentication with HTTP-only cookies, bcrypt password hashing, and role-based access control (Customer/Admin/Kitchen)
+- **Real-time Order Management**: Live order tracking with Socket.io, kitchen dashboard with order status updates, and customer notifications
+- **Payment Integration**: Razorpay payment gateway with secure transaction handling and order confirmation emails
+- **Admin Dashboard**: Comprehensive analytics with Recharts visualization, sales reports, menu management CRUD operations, and user management
+- **Menu System**: Category-based menu with image uploads, pricing management, availability toggling, and advanced filtering
+- **Responsive Design**: Mobile-first approach with Framer Motion animations and smooth user experience across all devices
+- **Email Service**: Automated email notifications for orders, reservations, and confirmations using Nodemailer
+- **API Security**: Rate limiting, input validation with Express Validator, CORS configuration, and error handling middleware
 
-**Key Features:**
-- 🔐 Secure authentication & authorization
-- 📊 Real-time analytics dashboard
-- 💳 Razorpay payment integration
-- 📧 Email notifications with Nodemailer
-- 👨‍🍳 Kitchen order management system
-- 📱 Fully responsive design
+**Challenges Solved:**
+- Implemented efficient state management for complex order flows
+- Optimized database queries for fast menu loading and order processing
+- Built scalable backend architecture supporting concurrent users
+- Created intuitive admin panel for non-technical restaurant staff
 
 ---
 
-### 🎯 JIRA Clone - Project Management Tool
+### 👨‍💻 CoderWorld - Collaborative Coding Platform
+**Personal Project | Full Stack Development**
 
-A feature-rich project management application inspired by JIRA with task tracking, sprint management, and team collaboration features.
+A modern platform for developers to collaborate, share code, and work on projects together with real-time features.
 
-**Tech Stack:** React • Redux • Node.js • Express • MongoDB • Socket.io • Redis
+**Tech Stack:** React • Clerk Authentication • Redux • Node.js • Express • MongoDB • Socket.io • VS Code Integration
 
 **Key Features:**
-- 📋 Task & Sprint management
-- 👥 Team collaboration
-- 🔔 Real-time notifications
-- 📈 Project analytics
-- 🔍 Advanced search & filters
+- **User Authentication**: Clerk integration for secure, hassle-free authentication with social login support
+- **Code Collaboration**: Real-time code editing and sharing capabilities
+- **Project Management**: Create, organize, and manage coding projects with team members
+- **User Profiles**: Developer profiles with project showcases and activity tracking
+- **Responsive UI**: Clean, modern interface built with React and styled components
+
+**Technical Highlights:**
+- Implemented real-time synchronization for collaborative editing
+- Built RESTful APIs with proper authentication middleware
+- Used Redux for complex state management across components
+- Integrated Clerk for seamless authentication flow
+
+---
+
+### 📝 NoteApp - Decentralized Note-Taking on Solana
+**Blockchain Project | Solana DApp**
+
+A decentralized note-taking application built on Solana blockchain, allowing users to store notes on-chain with complete ownership and immutability.
+
+**Tech Stack:** Solana • Anchor Framework • Rust • React • Solana Web3.js • TypeScript • Vite
+
+**Key Features:**
+- **On-Chain Storage**: Notes stored directly on Solana blockchain using Program Derived Addresses (PDAs)
+- **Wallet Integration**: Seamless connection with Phantom and Solflare wallets
+- **CRUD Operations**: Create, read, update, and delete notes with smart contract interactions
+- **User Ownership**: Each note is tied to user's wallet address ensuring true ownership
+- **Fast Transactions**: Leveraging Solana's high throughput for quick note operations
+- **Frontend Interface**: Clean React interface for easy note management
+
+**Technical Implementation:**
+- Developed smart contract (program) in Rust using Anchor framework
+- Implemented instruction handlers for note CRUD operations
+- Built frontend with Solana Web3.js for wallet connection and transaction signing
+- Used TypeScript for type-safe program interactions
+- Deployed on Solana devnet/mainnet with proper error handling
+
+**Learning Outcomes:**
+- Mastered Anchor framework and Solana program development
+- Understood account models and PDA (Program Derived Address) concepts
+- Gained experience with Rust programming for blockchain
+- Learned Solana transaction structure and fee mechanics
 
 ---
 
 ### 🏆 Smart India Hackathon (SIH) Projects
+**Competition Projects | Innovation & Problem Solving**
 
-Multiple innovative projects developed for SIH competitions focusing on solving real-world problems with technology.
+Multiple innovative solutions developed for Smart India Hackathon, focusing on real-world problem statements with scalable technology solutions.
 
-**Tech Stack:** Next.js • React • Node.js • MongoDB • AI/ML Integration • Web3
+**Tech Stack:** Next.js 15 • React 19 • Node.js • Express • MongoDB • Mongoose • JWT • AI/ML Integration • WebRTC • Socket.io
 
-**Highlights:**
-- 🤖 AI-powered solutions
-- 🌐 Scalable architecture
-- 💡 Innovative problem-solving
-- 📱 Mobile-responsive design
+**SIH 2025 - TheMeteroid Team Demo**
+
+**Problem Statement**: [Specific problem addressed by the solution]
+
+**Solution Approach:**
+- **Frontend**: Built with Next.js 15 and React 19 for optimal performance and SEO
+- **Backend**: Node.js with Express.js providing RESTful API architecture
+- **Database**: MongoDB with Mongoose ODM for flexible data management
+- **Authentication**: JWT-based secure authentication system
+- **Real-time Features**: Socket.io for live updates and notifications
+- **AI Integration**: Machine learning models for intelligent features
+- **Responsive Design**: Next.js Themes for dark/light mode support
+
+**Key Features:**
+- Comprehensive user authentication and authorization
+- Real-time data processing and visualization
+- Interactive dashboard with analytics
+- Mobile-responsive design with modern UI/UX
+- Scalable architecture supporting multiple concurrent users
+- API rate limiting and security best practices
+
+**Technical Achievements:**
+- Built production-ready application within hackathon timeline
+- Implemented complex features with clean, maintainable code
+- Collaborated effectively with team members using Git workflow
+- Deployed solution with CI/CD pipeline consideration
 
 ---
 
-### ⛓️ Blockchain & Web3 Projects
+### 🗳️ Blockchain Voting System
+**Academic/Personal Project | Ethereum DApp**
 
-#### 🗳️ Decentralized Voting System
-Secure and transparent voting platform built on Ethereum blockchain.
+A secure, transparent, and tamper-proof voting system leveraging Ethereum blockchain technology to ensure election integrity.
 
-**Tech Stack:** Solidity • Hardhat • Ethers.js • React • Web3.js
+**Tech Stack:** Solidity • Hardhat • Ethers.js • React • Web3.js • OpenZeppelin • TypeScript • Vite
 
-#### 💰 Solana DApps
-Decentralized applications built on Solana blockchain using Anchor framework.
+**Key Features:**
+- **Smart Contract**: Written in Solidity with security best practices
+- **Transparency**: All votes recorded on blockchain, publicly verifiable
+- **Security**: One person, one vote enforcement using address mapping
+- **Immutability**: Vote records cannot be altered or deleted
+- **Admin Panel**: Contract owner can manage elections and view results
+- **Voter Interface**: Simple UI for voters to cast votes securely
 
-**Tech Stack:** Rust • Anchor • Solana Web3.js • React
+**Smart Contract Features:**
+- Voter registration and verification
+- Candidate management
+- Time-bound voting periods
+- Automated vote counting
+- Result publication
+- Access control using OpenZeppelin
 
-**Features:**
-- ✅ Smart contract development
-- 🔐 Wallet integration
-- 💸 Token transactions
-- 📱 User-friendly interface
+**Development Tools:**
+- Hardhat for development, testing, and deployment
+- Ethers.js for blockchain interaction
+- React frontend with Web3 wallet integration
+- TypeScript for type safety throughout the stack
 
 ---
 
-### 💬 Real-time Communication Apps
+### 💬 Real-Time Communication Platform
+**Personal Project | WebRTC & Socket.io**
 
-WebRTC-based video calling and chat applications with socket integration.
+A full-featured video calling and chat application with peer-to-peer communication and real-time messaging.
 
-**Tech Stack:** WebRTC • Socket.io • Node.js • Express • React
+**Tech Stack:** WebRTC • Socket.io • Node.js • Express • React • Twilio (STUN/TURN)
 
-**Features:**
-- 🎥 Video/Audio calls
-- 💬 Real-time messaging
-- 👥 Multi-user support
-- 🔒 Secure communication
+**Key Features:**
+- **Video/Audio Calls**: High-quality P2P communication using WebRTC
+- **Real-time Chat**: Instant messaging with Socket.io
+- **Screen Sharing**: Share screen during video calls
+- **Room Management**: Create and join private rooms
+- **Connection Handling**: Automatic reconnection and error handling
 
-</div>
+**Technical Implementation:**
+- Implemented WebRTC peer connection with proper signaling
+- Built Socket.io server for real-time message broadcasting
+- Integrated STUN/TURN servers for NAT traversal
+- Created responsive UI for seamless user experience
+
+---
+
+### 📊 JIRA Clone - Project Management Tool
+**Learning Project | Full Stack Development**
+
+A feature-rich project management application inspired by JIRA with comprehensive task tracking and team collaboration capabilities.
+
+**Tech Stack:** React • Redux Toolkit • Node.js • Express • MongoDB • Socket.io • Redis • React Hook Form • React Router
+
+**Key Features:**
+- **Task Management**: Create, assign, and track tasks with status workflows
+- **Sprint Planning**: Organize work into sprints with burndown charts
+- **Team Collaboration**: Comments, mentions, and activity feeds
+- **Real-time Updates**: Live notifications using Socket.io
+- **Advanced Search**: Filter and search tasks with multiple criteria
+- **User Management**: Role-based permissions and team organization
+- **Analytics Dashboard**: Project metrics and team performance tracking
+
+**Technical Implementation:**
+- Redux Toolkit for predictable state management
+- Redis for caching and session management
+- Socket.io for real-time collaborative features
+- React Hook Form for optimized form handling
+- RESTful API with proper error handling and validation
+
+---
+
+### 🌐 Additional Projects
+
+**Portfolio Website** - Personal portfolio with modern design and animations  
+**Password Manager** - Secure password storage application  
+**MongoDB & Mongoose Projects** - Database design and query optimization  
+**WebSocket Chat Applications** - Real-time messaging systems  
+**Express.js APIs** - RESTful API development with various features
 
 ---
 
@@ -214,33 +340,86 @@ WebRTC-based video calling and chat applications with socket integration.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience & Journey
 
-### 🔹 Intern - Full Stack Developer
-**Graphura India Pvt Ltd** | *Present*
-- Developing enterprise-level restaurant management system
-- Implementing secure payment gateways and real-time features
-- Building scalable backend APIs with Express.js and MongoDB
-- Creating responsive frontend with React 19 and modern UI libraries
+### 🔹 Full Stack Developer Intern
+**Graphura India Pvt Ltd** | *January 2026 - Present*
 
-### 🔹 Blockchain Developer
-**Freelance Projects** | *2024 - Present*
-- Developed smart contracts on Ethereum and Solana
-- Built decentralized applications (DApps) with Web3 integration
-- Implemented secure voting systems using blockchain technology
+Working on enterprise-level restaurant management system (DineFlow) with focus on:
+- Architecting and developing full-stack application using MERN stack
+- Implementing secure payment gateway integration with Razorpay
+- Building real-time features using Socket.io for order tracking and notifications
+- Creating responsive admin dashboard with Recharts for analytics visualization
+- Optimizing database queries and API performance for production deployment
+- Writing clean, maintainable code with proper documentation
+- Collaborating with team using Git workflows and code reviews
 
-### 🔹 MERN Stack Developer
-**Multiple Projects** | *2023 - Present*
-- Built full-stack applications from scratch
-- Implemented RESTful APIs and real-time features
-- Integrated third-party services (Razorpay, Twilio, Nodemailer)
+**Technologies Used:** React 19, Node.js, Express.js, MongoDB, JWT, Socket.io, Razorpay, Nodemailer, Framer Motion, Recharts
 
 ---
 
-## 📈 Coding Activity
+### 🔹 Blockchain Developer
+**Freelance & Personal Projects** | *2024 - Present*
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+Developing decentralized applications and smart contracts:
+- Built **Voting System** on Ethereum using Solidity with Hardhat development framework
+- Created **NoteApp DApp** on Solana blockchain using Anchor and Rust
+- Implemented smart contracts following security best practices and OpenZeppelin standards
+- Integrated Web3 wallets (MetaMask, Phantom) for seamless user experience
+- Deployed contracts on testnets and mainnets with proper testing
+- Explored DeFi concepts, token standards (ERC-20, ERC-721), and Layer 2 solutions
+
+**Technologies Used:** Solidity, Rust, Hardhat, Anchor, Ethers.js, Web3.js, Solana Web3.js, OpenZeppelin, TypeScript
+
+---
+
+### 🔹 MERN Stack Developer
+**Multiple Projects** | *2023 - Present*
+
+Built numerous full-stack applications from concept to deployment:
+- **CoderWorld**: Collaborative coding platform with Clerk authentication and real-time features
+- **JIRA Clone**: Project management tool with Redux state management and Socket.io
+- **Communication Apps**: WebRTC-based video calling and real-time chat applications
+- Implemented RESTful APIs with Express.js and MongoDB/Mongoose
+- Integrated third-party services (Twilio, Razorpay, Nodemailer, Clerk)
+- Deployed applications on Vercel, Render, and other cloud platforms
+- Managed version control with Git and collaborated using GitHub
+
+**Technologies Used:** React, Next.js, Node.js, Express, MongoDB, Redux, Socket.io, WebRTC, Various APIs
+
+---
+
+### 🔹 Smart India Hackathon Participant
+**SIH 2025 - TheMeteroid Team** | *2025*
+
+Developed innovative solutions for real-world problem statements:
+- Collaborated with cross-functional team to build full-stack application
+- Implemented features using Next.js 15, React 19, and modern development practices
+- Built scalable backend with Node.js and MongoDB
+- Integrated AI/ML features for intelligent functionality
+- Presented solution to industry experts and evaluators
+- Gained experience in rapid prototyping and hackathon workflow
+
+**Technologies Used:** Next.js, React, Node.js, Express, MongoDB, AI/ML Integration
+
+---
+
+### 📚 Continuous Learning & Development
+
+**Current Learning Path:**
+- Daily DSA problem-solving for algorithmic thinking
+- System design and scalable architecture patterns
+- Advanced blockchain concepts and DApp development
+- Cloud platforms (AWS/Azure) for production deployments
+- Open-source contribution and collaborative development
+
+**Development Tools & Workflow:**
+- **IDE:** VS Code with custom extensions and configurations
+- **Version Control:** Git & GitHub for all projects
+- **API Testing:** Postman, Thunder Client
+- **Database Tools:** MongoDB Compass, Redis CLI
+- **Blockchain Tools:** Hardhat, Truffle, Ganache, Solana CLI
+- **Package Managers:** npm, yarn, pnpm
 
 ---
 
@@ -267,66 +446,60 @@ WebRTC-based video calling and chat applications with socket integration.
 
 ---
 
-## 💡 Featured Repositories
+## 🎯 Current Goals & Focus (2026)
+
+**Daily Routine:**
+- 💡 **DSA Practice**: Solving 2-3 Data Structures & Algorithms problems daily on LeetCode/GeeksforGeeks
+- 📝 **Consistent Coding**: Maintaining GitHub streak with meaningful contributions
+- 📚 **Learning**: Dedicating time to explore new technologies and deepen existing knowledge
+
+**Project Goals:**
+- 🚀 Complete and deploy **10+ production-ready applications** across different domains
+- 🏢 Successfully deliver **DineFlow Restaurant Management System** for Graphura India Pvt Ltd
+- 💻 Build and launch **CoderWorld** platform for developer collaboration
+- ⛓️ Create **3-4 advanced blockchain projects** on Ethereum and Solana
+- 📱 Develop **mobile-responsive applications** with modern frameworks
+
+**Open Source Contributions:**
+- 🌟 Actively contribute to **open-source projects** in JavaScript/TypeScript ecosystem
+- 🤝 Collaborate with developers worldwide on GitHub
+- 📖 Document and share knowledge through well-written README files and code comments
+- 🔧 Submit meaningful PRs to projects I use and believe in
+
+**Skill Development:**
+- 🏗️ **System Design**: Master scalable architecture patterns and design principles
+- ☁️ **Cloud Platforms**: Learn AWS/Azure for deploying and managing production applications
+- 🎯 **Advanced Patterns**: Deep dive into design patterns, microservices, and best practices
+- 🔐 **Security**: Strengthen knowledge in application security and secure coding practices
+- 🧪 **Testing**: Implement comprehensive testing (Unit, Integration, E2E)
+
+**Community & Growth:**
+- 👨‍🏫 **Mentoring**: Help aspiring developers through code reviews and guidance
+- ✍️ **Technical Writing**: Share experiences and tutorials through blogs/articles
+- 🎤 **Networking**: Connect with developers, attend tech meetups (virtual/in-person)
+- 📊 **Portfolio Building**: Maintain and update professional portfolio with latest projects
+
+**Learning Focus Areas:**
+- Advanced React patterns (hooks, context, custom hooks, performance optimization)
+- Node.js scaling and microservices architecture
+- GraphQL and modern API design
+- Docker and containerization
+- CI/CD pipelines and DevOps practices
+- Web3 and blockchain advanced concepts (Layer 2, DeFi, NFTs)
+- TypeScript advanced features and best practices
+- Database optimization and indexing strategies
+
+---
 
 <div align="center">
 
-[![RestaurantGraphura](https://github-readme-stats.vercel.app/api/pin/?username=mukeshk78254&repo=RestaurantGraphura&theme=radical&hide_border=true)](https://github.com/mukeshk78254/RestaurantGraphura)
-
-</div>
-
----
-
-## 🎯 Current Goals for 2026
-
-- ✅ Master advanced blockchain development
-- ✅ Contribute to open-source projects
-- ✅ Build 10+ production-ready applications
-- ✅ Learn cloud architecture (AWS/Azure)
-- ✅ Explore AI/ML integration in web apps
-- ✅ Mentor aspiring developers
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-JavaScript   15 hrs 30 mins  ████████████░░░░░░░  55.2%
-TypeScript    5 hrs 20 mins  ████░░░░░░░░░░░░░░░  19.1%
-Solidity      3 hrs 45 mins  ███░░░░░░░░░░░░░░░░  13.4%
-React         2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░   8.0%
-Other         1 hr  10 mins  █░░░░░░░░░░░░░░░░░░   4.3%
-```
-
----
-
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🌟 "First, solve the problem. Then, write the code." - John Johnson
 
 ### ⭐ Star my repositories if you find them useful!
 
 ### 🔥 Let's build something amazing together!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</div>
-
----
-
-<div align="center">
-  
-**💖 Thank you for visiting my profile! 💖**
+**Thank you for visiting my profile!**
 
 ![](https://komarev.com/ghpvc/?username=mukeshk78254&style=flat-square&color=blue)
 

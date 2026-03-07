@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Mukesh Kumar
+#  Hi, I'm Mukesh Kumar
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Blockchain+Developer;MERN+Stack+Enthusiast;Web3+%26+DApp+Developer;Problem+Solver+%7C+Innovator" alt="Typing SVG" />
 
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/mukeshk78254?label=Followers&style=social" alt="Followers" />
 </p>
 
-### 🚀 Passionate Developer | 💡 Innovative Thinker | 🌟 Tech Enthusiast
+###  Passionate Developer |  Innovative Thinker |  Tech Enthusiast
 
 > Crafting scalable web applications and decentralized solutions that make a difference
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a passionate Full Stack Developer and Blockchain enthusiast who loves building scalable applications that solve real-world problems. My journey in software development has led me through various domains - from creating sophisticated restaurant management systems to developing decentralized applications on multiple blockchains.
 
@@ -35,23 +35,23 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who loves buildi
 - Design: Focus on clean code architecture and scalable solutions
 
 **Currently:**
-- 🏢 Working on enterprise-level Restaurant Management System (DineFlow) for Graphura India Pvt Ltd
-- 🎯 Solving daily DSA problems to strengthen problem-solving skills
-- 🌱 Contributing to open-source projects and learning advanced system design
-- 🚀 Building CoderWorld - a collaborative coding platform
-- ⛓️ Exploring advanced blockchain concepts and Layer 2 solutions
+-  Working on enterprise-level Restaurant Management System (DineFlow) for Graphura India Pvt Ltd
+-  Solving daily DSA problems to strengthen problem-solving skills
+-  Contributing to open-source projects and learning advanced system design
+-  Building CoderWorld - a collaborative coding platform
+-  Exploring advanced blockchain concepts and Layer 2 solutions
 
 **Background:**
-- 🎓 Computer Science & Engineering student
-- 🏆 Smart India Hackathon participant with multiple innovative projects
-- 💼 Experience in freelance development and internship at Graphura India Pvt Ltd
-- 📚 Continuous learner - always exploring new technologies and best practices
+-  Computer Science & Engineering student
+-  Smart India Hackathon participant with multiple innovative projects
+-  Experience in freelance development and internship at Graphura India Pvt Ltd
+-  Continuous learner - always exploring new technologies and best practices
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 💻 Frontend Development
+###  Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -63,7 +63,7 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who loves buildi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend Development
+###  Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -72,7 +72,7 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who loves buildi
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### ⛓️ Blockchain & Web3
+###  Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
@@ -80,7 +80,7 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who loves buildi
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### 🔧 Tools & Technologies
+###  Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -89,13 +89,13 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who loves buildi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### 🎨 Design & UI/UX
+###  Design & UI/UX
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Lucide Icons](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white)
 
-### 📱 Additional Skills
+###  Additional Skills
 ![RESTful API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -105,9 +105,9 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who loves buildi
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🍽️ Restaurant Management System
+###  Restaurant Management System
 **Graphura India Pvt Ltd | Full Stack Development**
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukeshk78254/RestaurantGraphura)
@@ -186,7 +186,7 @@ A decentralized note-taking application built on Solana blockchain, allowing use
 
 ---
 
-### AI  Projects
+### Smart Ticketing Ai Projects
 **Competition Projects | Innovation & Problem Solving**
 
 Multiple innovative solutions developed , focusing on real-world problem statements with scalable technology solutions.
@@ -220,7 +220,7 @@ Multiple innovative solutions developed , focusing on real-world problem stateme
 
 ---
 
-### 🗳️ Blockchain Voting System
+###  Blockchain Voting System
 **Academic/Personal Project | Ethereum DApp**
 
 A secure, transparent, and tamper-proof voting system leveraging Ethereum blockchain technology to ensure election integrity.
@@ -251,7 +251,7 @@ A secure, transparent, and tamper-proof voting system leveraging Ethereum blockc
 
 ---
 
-### 💬 Real-Time Communication Platform
+###  Real-Time Communication Platform
 **Personal Project | WebRTC & Socket.io**
 
 A full-featured video calling and chat application with peer-to-peer communication and real-time messaging.
@@ -273,7 +273,7 @@ A full-featured video calling and chat application with peer-to-peer communicati
 
 ---
 
-### 🌐 Additional Projects
+###  Additional Projects
 
 **Portfolio Website** - Personal portfolio with modern design and animations  
 **Password Manager** - Secure password storage application  
@@ -283,7 +283,7 @@ A full-featured video calling and chat application with peer-to-peer communicati
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   
@@ -303,7 +303,7 @@ A full-featured video calling and chat application with peer-to-peer communicati
 
 ---
 
-## 💼 Professional Experience & Journey
+##  Professional Experience & Journey
 
 ### 🔹 Full Stack Developer Intern
 **Graphura India Pvt Ltd** | * Dec-2025  - Jan-2026 *
@@ -351,7 +351,7 @@ Developed innovative solutions for real-world problem statements:
 
 ---
 
-### 📚 Continuous Learning & Development
+###  Continuous Learning & Development
 
 **Current Learning Path:**
 - Daily DSA problem-solving for algorithmic thinking
@@ -370,61 +370,59 @@ Developed innovative solutions for real-world problem statements:
 
 ---
 
-## 🎓 Certifications & Achievements
+##  Certifications & Achievements
 
-- 🏆 **Smart India Hackathon** Participant
-- 📜 **Full Stack Development** - MERN Stack
-- ⛓️ **Blockchain Development** - Ethereum & Solana
-- 🎯 **Problem Solving** - LeetCode & Competitive Programming
+-  **Smart India Hackathon** Participant
+-  **Full Stack Development** - MERN Stack
+-  **Blockchain Development** - Ethereum & Solana
+-  **Problem Solving** - LeetCode & Competitive Programming
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukeshk78254)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukeshk78254)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mukeshk78254)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mukeshk78254.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-kumar90)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshk78254@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Current Goals & Focus (2026)
+##  Current Goals & Focus (2026)
 
 **Daily Routine:**
-- 💡 **DSA Practice**: Solving 2-3 Data Structures & Algorithms problems daily on LeetCode/GeeksforGeeks
-- 📝 **Consistent Coding**: Maintaining Project streak with meaningful contributions
-- 📚 **Learning**: Dedicating time to explore new technologies and deepen existing knowledge
+-  **DSA Practice**: Solving 2-3 Data Structures & Algorithms problems daily on LeetCode/GeeksforGeeks
+-  **Consistent Coding**: Maintaining Project streak with meaningful contributions
+-  **Learning**: Dedicating time to explore new technologies and deepen existing knowledge
 
 **Project Goals:**
-- 🚀 Complete and deploy **10+ production-ready applications** across different domains
-- 🏢 Successfully deliver ** Restaurant Management System** for Graphura India Pvt Ltd
-- 💻 Build and launch **CoderWorld** platform for developer collaboration
-- ⛓️ Create **2 advanced blockchain projects** on Ethereum and Solana
-- 📱 Develop **mobile-responsive applications** with modern frameworks
+-  Complete and deploy **10+ production-ready applications** across different domains
+-  Successfully deliver ** Restaurant Management System** for Graphura India Pvt Ltd
+-  Build and launch **CoderWorld** platform for developer collaboration
+-  Create **2 advanced blockchain projects** on Ethereum and Solana
+-  Develop **mobile-responsive applications** with modern frameworks
 
 **Open Source Contributions:**
-- 🌟 Actively contribute to **open-source projects** in JavaScript/TypeScript ecosystem
-- 🤝 Collaborate with developers worldwide on GitHub
-- 📖 Document and share knowledge through well-written README files and code comments
-- 🔧 Submit meaningful PRs to projects I use and believe in
+-  Actively contribute to **open-source projects** in JavaScript/TypeScript ecosystem
+-  Collaborate with developers worldwide on GitHub
+-  Document and share knowledge through well-written README files and code comments
+-  Submit meaningful PRs to projects I use and believe in
 
 **Skill Development:**
-- 🏗️ **System Design**: Master scalable architecture patterns and design principles
-- ☁️ **Cloud Platforms**: Learn AWS/Azure for deploying and managing production applications
-- 🎯 **Advanced Patterns**: Deep dive into design patterns, microservices, and best practices
-- 🔐 **Security**: Strengthen knowledge in application security and secure coding practices
-- 🧪 **Testing**: Implement comprehensive testing (Unit, Integration, E2E)
+-  **System Design**: Master scalable architecture patterns and design principles
+-  **Cloud Platforms**: Learn AWS/Azure for deploying and managing production applications
+-  **Advanced Patterns**: Deep dive into design patterns, microservices, and best practices
+-  **Security**: Strengthen knowledge in application security and secure coding practices
+-  **Testing**: Implement comprehensive testing (Unit, Integration, E2E)
 
 **Community & Growth:**
-- 👨‍🏫 **Mentoring**: Help aspiring developers through code reviews and guidance
-- ✍️ **Technical Writing**: Share experiences and tutorials through blogs/articles
-- 🎤 **Networking**: Connect with developers, attend tech meetups (virtual/in-person)
-- 📊 **Portfolio Building**: Maintain and update professional portfolio with latest projects
+-  **Mentoring**: Help aspiring developers through code reviews and guidance
+-  **Technical Writing**: Share experiences and tutorials through blogs/articles
+-  **Networking**: Connect with developers, attend tech meetups (virtual/in-person)
+-  **Portfolio Building**: Maintain and update professional portfolio with latest projects
 
 **Learning Focus Areas:**
 - Advanced React patterns (hooks, context, custom hooks, performance optimization)
@@ -440,11 +438,11 @@ Developed innovative solutions for real-world problem statements:
 
 <div align="center">
 
-### 🌟 "First, solve the problem. Then, write the code." - John Johnson
+###  "First, solve the problem. Then, write the code." - John Johnson
 
-### ⭐ Star my repositories if you find them useful!
+###  Star my repositories if you find them useful!
 
-### 🔥 Let's build something amazing together!
+###  Let's build something amazing together!
 
 **Thank you for visiting my profile!**
 
